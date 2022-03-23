@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        bind:
+
+    kaileysnay.requireeditreason.listener:
+        class: kaileysnay\requireeditreason\event\main_listener
+        tags:
+            - { name: event.listener }
