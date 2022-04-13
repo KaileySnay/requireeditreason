@@ -19,7 +19,7 @@ Requires an edit reason if a moderator edits a user's post.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/requireeditreason/workflows/Tests/badge.svg)](https://github.com/KaileySnay/requireeditreason/actions)
+master: [![Build Status](https://github.com/kaileysnay/requireeditreason/workflows/Tests/badge.svg)](https://github.com/kaileysnay/requireeditreason/actions)
 
 ## License
 
